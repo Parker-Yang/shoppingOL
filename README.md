@@ -1,4 +1,4 @@
-# canadastudio
+# ShoppingOL
 
 > A Vue.js project
 
